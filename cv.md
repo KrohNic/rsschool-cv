@@ -13,3 +13,30 @@
 A bit of web development experience (HTML, CSS, JavaScript, browser extensions) and Android apps development. I also have experience in graphic packages, such as Photoshop or Gimp.  
 Good analytical skills, quick learner, motivated to professional growth.
 Advanced linux and windows user.
+
+## **Technical Skills**
+
+**Programming languages and technologies:**
+
+- JavaScript
+- HTML
+- CSS/SCSS
+- Node.js
+- PHP
+- Java
+- Apex
+- C/C++
+- SQL
+
+**Tools:**
+
+- GIT
+- Webpack
+- VS Code
+- Webstorm
+- Android Studio
+
+**Other skills:**
+
+- My profile with completed courses: [codecademy.com](https://www.codecademy.com/profiles/0239390839)
+- My profile in [codewars.com](https://www.codewars.com/users/NickolayKroh)
