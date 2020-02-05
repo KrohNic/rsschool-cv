@@ -40,3 +40,14 @@ Advanced linux and windows user.
 
 - My profile with completed courses: [codecademy.com](https://www.codecademy.com/profiles/0239390839)
 - My profile in [codewars.com](https://www.codewars.com/users/NickolayKroh)
+
+# **Professional Experience**
+
+### "Belarusbank"
+
+**Position**: Systems Engineer (08.08.2015 - till now).
+
+## **Education**
+
+- Higher, BREST STATE UNIVERSITY named after A.S. Pushkin, specialty **Mathematics and computer science**
+- Higher, BREST STATE TECHNICAL UNIVERSITY, specialty **Software for Information Technologies**
