@@ -51,3 +51,8 @@ Advanced linux and windows user.
 
 - Higher, BREST STATE UNIVERSITY named after A.S. Pushkin, specialty **Mathematics and computer science**
 - Higher, BREST STATE TECHNICAL UNIVERSITY, specialty **Software for Information Technologies**
+
+## **English**
+
+- I can easily read any documentation, watch videos and briefly talk in English with somebody. But without any practice at my current job my English level: **B1 (Intermediate)**
+- Daily I practice at [lingualeo.com](https://lingualeo.com/) and i've reached 31 level by now.
